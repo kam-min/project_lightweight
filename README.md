@@ -51,8 +51,7 @@
 
 **Содержимое ZIP-архива** 
 
-```markdown
-## 📦 Содержимое FINAL_DELIVERY_ANALYST.zip
+📦 Содержимое FINAL_DELIVERY_ANALYST.zip
 
 | Файл | Описание |
 |------|----------|
