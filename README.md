@@ -1,7 +1,10 @@
 # project_lightweight
-│
-├── data_and_eda.ipynb # Подготовка данных и EDA
-├── models.ipynb # Бенчмаркинг моделей
-├── final_part.ipynb # Анализ и визуализация
-├── FINAL_DELIVERY_ANALYST.zip # Все результаты (CSV, PNG, отчёт)
-└── README.md # Описание проекта
+## 📁 Структура репозитория
+
+| Файл | Описание |
+|------|----------|
+| `data_and_eda.ipynb` | Подготовка данных и разведочный анализ (EDA) |
+| `models.ipynb` | Бенчмаркинг 7 моделей на 3 датасетах |
+| `final_part.ipynb` | Анализ результатов, визуализация, SWOT |
+| `FINAL_DELIVERY_ANALYST.zip` | Все результаты (CSV, PNG, отчёт) |
+| `README.md` | Описание проекта и инструкция по запуску |
